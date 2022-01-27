@@ -8,4 +8,4 @@
 Зрячий                    Sighted
 Забытый                   oblitus
 Падальщик                scavenger
- ``
+ ```
