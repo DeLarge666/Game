@@ -1,0 +1,6 @@
+![skeleton_seeker_damage](https://user-images.githubusercontent.com/90608498/152701893-0ec6b5d9-234a-4c9c-a48e-0d47f04a3316.png)
+![skeleton_seeker_death](https://user-images.githubusercontent.com/90608498/152701895-484bb4c6-38be-482e-bb8c-7e6886399372.png)
+![skeleton_seeker_idle](https://user-images.githubusercontent.com/90608498/152701897-b890b51b-13e3-4446-be35-5d38c8ac9f83.png)
+![skeleton_seeker_spawn](https://user-images.githubusercontent.com/90608498/152701899-144faeda-6e0a-418d-a211-1ffeba07cd2c.png)
+![skeleton_seeker_walk](https://user-images.githubusercontent.com/90608498/152701901-b5a44680-1da7-4957-a958-5d3c4e359681.png)
+![skeleton_skeleton_attack](https://user-images.githubusercontent.com/90608498/152701902-af2aafab-a261-40ea-b80a-7afb7cbefd3f.png)
