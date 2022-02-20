@@ -1,0 +1,5 @@
+![monster_1_atak_1_aseprite](https://user-images.githubusercontent.com/90608498/154863865-c1b05bb7-1855-4ed6-9f96-5dd6993b6a86.png)
+![monster_1_atak_2_aseprite](https://user-images.githubusercontent.com/90608498/154863866-b6bb3277-2f8d-431e-875f-cf7c832a84bc.png)
+![monster_1_death_aseprite](https://user-images.githubusercontent.com/90608498/154863867-8afe3226-a989-4339-800b-7435510527e0.png)
+![monster_1_hit_aseprite](https://user-images.githubusercontent.com/90608498/154863869-e2730530-6648-4368-b70e-869fc65a25a1.png)
+![monster_1_walk_aseprite](https://user-images.githubusercontent.com/90608498/154863870-f162517e-fe0f-47c5-b9bf-11592b5d6f0a.png)
